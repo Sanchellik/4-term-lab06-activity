@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    //TODO на listSight дать возможность выбрать, чем отображать, выпадающий список
+    //TODO показать местоположение
     //TODO по gps показывать достопримечательности текущего города
 
 }
